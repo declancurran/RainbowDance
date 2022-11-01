@@ -1,1 +1,4 @@
 This is the Rainbow dance
+up 
+down
+side to side
